@@ -1,9 +1,6 @@
 package ua.com.mykola.analyticaltool;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.util.Date;
-import java.util.Objects;
 
 public class Question {
     // for example: 9.1 or only 9
